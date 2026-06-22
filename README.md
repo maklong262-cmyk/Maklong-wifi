@@ -1,2 +1,106 @@
-# Maklong-wifi
-Jasa pembuatan WiFi Voucher Mikrotik profesional. Setup hotspot, voucher internet, billing hotspot, cetak voucher otomatis, laporan penjualan lengkap.
+
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mak Long WiFi Voucher Profesional | Jasa Setup Hotspot Mikrotik</title>
+<meta name="description" content="Jasa pembuatan WiFi Voucher Mikrotik profesional, setup hotspot, billing hotspot, cetak voucher otomatis, support remote Malaysia dan Indonesia.">
+<meta name="keywords" content="wifi voucher,mikrotik hotspot,billing hotspot,wifi berbayar">
+<meta name="theme-color" content="#d4af37">
+<link rel="canonical" href="https://www.maklongwifi.com/">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Segoe UI,Arial,sans-serif;background:#0f0f0f;color:#f5f5f5;line-height:1.7}
+.navbar{position:sticky;top:0;background:#000;padding:15px 5%;display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #d4af37;z-index:999}
+.logo{color:#d4af37;font-size:28px;font-weight:bold}
+.navbar a{color:#fff;text-decoration:none;margin-left:20px}
+.hero{padding:30px 5%;text-align:center}
+.hero img{width:100%;max-width:1400px;border-radius:20px;border:3px solid #d4af37;box-shadow:0 0 40px rgba(212,175,55,.3)}
+.section{max-width:1200px;margin:auto;padding:70px 20px}
+h1,h2,h3{color:#d4af37;margin-bottom:15px}
+.btn{display:inline-block;background:#d4af37;color:#000;padding:14px 28px;border-radius:10px;text-decoration:none;font-weight:bold}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
+.card{background:#1a1a1a;border:1px solid #d4af37;border-radius:15px;padding:25px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+.stat{background:#1a1a1a;padding:25px;border-radius:15px;border:1px solid #d4af37;text-align:center}
+.stat h2{font-size:42px}
+.price{font-size:38px;font-weight:bold}
+footer{background:#000;padding:40px;text-align:center;border-top:2px solid #d4af37}
+.wa{position:fixed;right:20px;bottom:20px;width:65px;height:65px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;color:#fff;font-size:30px}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+<div class="logo">Mak Long WiFi</div>
+<div>
+<a href="#layanan">Layanan</a>
+<a href="#paket">Paket</a>
+<a href="#testimoni">Testimoni</a>
+<a href="#kontak">Kontak</a>
+</div>
+</div>
+
+<section class="hero">
+<img src="images/logo-maklongwifi.webp" alt="Mak Long WiFi Voucher">
+</section>
+
+<section class="section">
+<h1>Jasa Pembuatan WiFi Voucher Profesional</h1>
+<p>Solusi lengkap hotspot Mikrotik untuk cafe, hotel, kos, sekolah, restoran, warung internet dan UMKM. Sistem voucher otomatis, aman, stabil dan mudah digunakan.</p>
+<br>
+<a href="https://wa.me/601164522237" class="btn">Konsultasi Gratis</a>
+</section>
+
+<section class="section">
+<div class="stats">
+<div class="stat"><h2>500+</h2><p>Pelanggan</p></div>
+<div class="stat"><h2>1000+</h2><p>Voucher Terjual</p></div>
+<div class="stat"><h2>24/7</h2><p>Support</p></div>
+<div class="stat"><h2>100%</h2><p>Remote Setup</p></div>
+</div>
+</section>
+
+<section class="section" id="layanan">
+<h2>Layanan Kami</h2>
+<div class="grid">
+<div class="card"><h3>Setup Mikrotik</h3><p>Konfigurasi hotspot profesional.</p></div>
+<div class="card"><h3>Cetak Voucher</h3><p>Voucher otomatis dan manual.</p></div>
+<div class="card"><h3>Laporan Lengkap</h3><p>Monitoring pengguna dan penjualan.</p></div>
+<div class="card"><h3>Maintenance</h3><p>Dukungan teknis berkelanjutan.</p></div>
+</div>
+</section>
+
+<section class="section" id="paket">
+<h2>Paket Harga</h2>
+<div class="grid">
+<div class="card"><h3>Setup Dasar</h3><div class="price">Rp500K</div></div>
+<div class="card"><h3>Setup + Alat</h3><div class="price">Rp1Jt</div></div>
+<div class="card"><h3>Siap Pakai</h3><div class="price">Rp1.8Jt</div></div>
+</div>
+</section>
+
+<section class="section" id="testimoni">
+<h2>Testimoni</h2>
+<div class="grid">
+<div class="card">"Pelayanan cepat dan profesional."</div>
+<div class="card">"Hotspot stabil dan mudah digunakan."</div>
+<div class="card">"Support sangat membantu."</div>
+</div>
+</section>
+
+<section class="section" id="kontak">
+<h2>Hubungi Kami</h2>
+<p>WhatsApp: +60 11-6452-2237</p>
+<p>Email: maklong262@gmail.com</p>
+<p>Alamat: Jl. Pembangunan 1 LK. X</p>
+</section>
+
+<footer>
+© 2026 Mak Long WiFi Voucher Profesional
+</footer>
+
+<a class="wa" href="https://wa.me/601164522237">💬</a>
+
+</body>
+</html>
